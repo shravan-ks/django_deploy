@@ -13,7 +13,7 @@ SECRET_KEY = 'j#k@c%o4__siw)9m@1n0^+nlay4=jzb^2n)r(ive!6=%6ko5)o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djcap.cap.shravanks.com']
 
 
 # Application definition
