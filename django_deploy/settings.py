@@ -16,7 +16,7 @@ DEBUG = True
 # if DEBUG:
 #     ALLOWED_HOSTS = []
 # else:
-ALLOWED_HOSTS = ['djcap.cap.shravanks.com,www.djcap.cap.shravanks.com']
+ALLOWED_HOSTS = ['djcap.cap.shravanks.com']
 
 
 # Application definition
